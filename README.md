@@ -67,3 +67,9 @@ pip install -r requirements.txt
 
 ---
 **Sample Images**: You can find sample foggy images in the `Sample Images` directory to test the tools.
+
+## Project Report
+
+For a complete academic analysis, including the methodology, digital signal processing concepts, and detailed results, you can view the full project report:
+
+📄 **[View Project Report](public/Project_Report.pdf)**
